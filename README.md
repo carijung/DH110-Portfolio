@@ -11,8 +11,13 @@ I conducted a heuristic evaluation of the UN Environment Programme website to un
 > See more about [heuristic evaluation](https://github.com/carijung/DH110-22F-SustainableCitiesAndCommunities/blob/main/README.md)
 
 ### Design
-persona
-low fidelity prototype
+First I created three personas and scenarios.
+> See more about [personas and scenarios](https://github.com/carijung/DH110-Assignment4-Persona-Scenario/blob/main/README.md)
+
+Next, using the personas, I created a low fidelity prototype.
+> See more about [low fidelity prototype](https://github.com/carijung/DH110-Assignment4-Persona-Scenario/blob/main/README.md)
+
+
 interface design
 high fidelity prototype 
 
