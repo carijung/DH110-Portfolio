@@ -11,6 +11,10 @@ I conducted a heuristic evaluation of the UN Environment Programme website to un
 > See more about [heuristic evaluation](https://github.com/carijung/DH110-22F-SustainableCitiesAndCommunities/blob/main/README.md)
 
 ### Design
+persona
+low fidelity prototype
+interface design
+high fidelity prototype 
 
 ### Evaluation
 
