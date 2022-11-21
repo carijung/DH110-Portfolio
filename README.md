@@ -17,9 +17,11 @@ First I created three personas and scenarios.
 Next, using the personas, I created a low fidelity prototype.
 > See more about [low fidelity prototype](https://github.com/carijung/DH110-Assignment4-Persona-Scenario/blob/main/README.md)
 
+Then, I created an interface design.
+> See more about [interface design](https://github.com/carijung/DH110-InterfaceDesign/blob/main/README.md)
 
-interface design
-high fidelity prototype 
+Lastly, I designed a high fidelity prototype
+> See more about [high fidelity prototype](https://github.com/carijung/DH110-HighFidelityPrototype/blob/main/README.md)
 
 ### Evaluation
 
