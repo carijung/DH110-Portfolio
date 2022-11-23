@@ -1,3 +1,5 @@
+theme: jekyll-theme-cayman 
+
 # Make Sustainability Resources More Accessible
 Cari Jung • DH110 UX+UI design • Fall 2022
 
